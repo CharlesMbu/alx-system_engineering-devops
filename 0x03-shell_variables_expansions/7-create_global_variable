@@ -1,2 +1,2 @@
 #!/bin/bash
-7. export School="BEST"
+export School="BEST"
